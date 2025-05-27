@@ -27,10 +27,10 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
 
 ## 💡 Use Cases
 
-- 📖 Research assistance  
-- ✂️ Document summarization  
-- ⚖️ Legal or academic paper analysis  
-- 🧠 Knowledge management for businesses  
+- Research assistance  
+- Document summarization  
+- Legal or academic paper analysis  
+- Knowledge management for businesses  
 
 ---
 
@@ -53,6 +53,12 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
 ```bash
 git clone https://github.com/yourusername/pdf-answering-ai.git
 cd pdf-answering-ai
+
+### 2. Create a Virtual Environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
 
 
 
