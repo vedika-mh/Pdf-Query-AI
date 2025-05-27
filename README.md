@@ -48,17 +48,15 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
 
 ## Results
 
+<img src="C:\Users\vedik\OneDrive\Pictures\Screenshots\Screenshot 2025-05-27 183046.png" alt="Model Results" width="600"/>
+
 ---
 ## 🧩 Future Enhancements
 
  - Multiple PDF support
-
  - Streamlit or Gradio-based interactive web app
-
  - Chat history and memory support
-
  - Export answers to file (e.g., .txt, .json)
-
  - OCR support for scanned PDFs
 
 
