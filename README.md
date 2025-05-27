@@ -51,15 +51,15 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
 ---
 ## 🧩 Future Enhancements
 
--Multiple PDF support
+ - Multiple PDF support
 
--Streamlit or Gradio-based interactive web app
+ - Streamlit or Gradio-based interactive web app
 
--Chat history and memory support
+ - Chat history and memory support
 
--Export answers to file (e.g., .txt, .json)
+ - Export answers to file (e.g., .txt, .json)
 
--OCR support for scanned PDFs
+ - OCR support for scanned PDFs
 
 
 
