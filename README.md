@@ -48,8 +48,9 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
 
 ## Results
 
- <img src="Screenshot 2025-05-27 183109.png" alt="Model Results" width="600"/>
- <img src="Screenshot 2025-05-27 183046.png" alt="Model Results" width="600"/>
+ <img src="images/Screenshot 2025-05-27 183109.png" alt="Model Results" width="600"/>
+ <img src="images/Screenshot 2025-05-27 183046.png" alt="Model Results" width="600"/>
+ <img src="images/Screenshot 2025-05-27 190157.png" alt="Model Results" width="600"/>
 
 ---
 ## 🧩 Future Enhancements
