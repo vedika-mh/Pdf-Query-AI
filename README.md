@@ -58,7 +58,9 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
 ## Problems Faced
 
  - We initially wanted to use OpenAI as LLM provider, however due to bit rate error we turned to use local HuggingFace embeddings which is comparatively less efficient.
-
+ - We initially used text generation model which is decoder only and is generally more efficient for simple text continuation but we turned to text2text-generation 
+   which process the entire input through an encoder and then generate output with a decoder, which can be slightly less efficient but is much more flexible for tasks that 
+   require transforming or understanding the input deeply;
 ---
 
 ## 🧩 Future Enhancements
