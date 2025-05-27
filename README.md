@@ -53,6 +53,9 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
  <img src="images/Screenshot 2025-05-27 190157.png" alt="Model Results" width="600"/>
 
 ---
+## Problems Faced
+
+ - We initially wanted to use OpenAI as LLM provider, however due to bit rate error we turned to use local HuggingFace embeddings.
 ## 🧩 Future Enhancements
 
  - Multiple PDF support
