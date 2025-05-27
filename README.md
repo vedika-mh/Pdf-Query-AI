@@ -45,20 +45,16 @@ A question-answering demo powered by vector search, utilizing Astra DB and LangC
 - Streamlit (optional for GUI)
 
 ---
+## Results
+![Alt Text](C:\Users\vedik\OneDrive\Pictures\Screenshots\Screenshot 2025-05-27 183046.png)
+---
+## 🧩 Future Enhancements
 
-## 📦 Installation
-
-1. **Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/pdf-answering-ai.git
-cd pdf-answering-ai
-
-### 2. Create a Virtual Environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-
+-Multiple PDF support
+-Streamlit or Gradio-based interactive web app
+-Chat history and memory support
+-Export answers to file (e.g., .txt, .json)
+-OCR support for scanned PDFs
 
 
 
